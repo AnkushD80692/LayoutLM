@@ -1,0 +1,3 @@
+https://medium.com/@shivarama/layoutlmv3-from-zero-to-hero-part-2-d2659eaa7dee
+https://github.com/philschmid/document-ai-transformers
+https://jalammar.github.io/illustrated-bert/
